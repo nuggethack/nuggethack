@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuggethack
-- 👀 I’m interested in etical hacking
+- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning OSINT & PWND
 - 💞️ I’m looking to collaborate on save the planet <3
 - 📫 How to reach me : nuggethack@proton.me
